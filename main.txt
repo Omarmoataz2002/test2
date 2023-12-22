@@ -5,4 +5,5 @@ int sum(int a, int b)
 int main()
 {
    int x=sum(4,7);
+   cout<<"hello"<<endl;
 }
